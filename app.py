@@ -57,8 +57,8 @@ more accessible for decision-making.
     # st.markdown("**Tools used**")
     # st.write("Python, Streamlit, pandas, Plotly")
     # st.image("img/poo.png", caption="Tools used")
-    st.image("img/Waste.jpg", caption="Waste dashboard screenshot")
-    st.image("img/poo.png", caption="Tools used")
+    st.image("Waste.jpg", caption="Waste dashboard screenshot")
+    st.image("tools.png", caption="Tools used")
 
 elif project == "Urban Tree Placement Simulation":
     st.subheader("Urban Tree Placement Simulation")
@@ -93,7 +93,7 @@ urban planning.
     # )
     # st.markdown("**Tools used**")
     # st.write("Python, Plotly, simulation, data visualization")
-    st.image("img/DSP.png", caption="Urban tree simulation project")
+    st.image("DSP.png", caption="Urban tree simulation project")
 
 elif project == "Virtual Dressing Room Concept":
     st.subheader("Virtual Dressing Room Concept")
@@ -129,7 +129,7 @@ building systems that combine technical ideas with user-centered design and visu
     # )
     # st.markdown("**Tools used**")
     # st.write("System design, UX, user flow, concept development")
-    st.image("img/IIS_Poster.png", caption="Virtual dressing room concept")
+    st.image("IIS_Poster.png", caption="Virtual dressing room concept")
 
 elif project == "Interactive Privacy Dashboard":
     st.subheader("Interactive Privacy Dashboard")
@@ -168,7 +168,7 @@ building tools that make complex systems more understandable and user-friendly.
     # )
     # st.markdown("**Tools used**")
     # st.write("UX, dashboard design, interaction design")
-    st.image("img/dash1.png", caption="Privacy dashboard project")
+    st.image("dash1.png", caption="Privacy dashboard project")
 
 st.markdown("---")
 st.header("Contact")
